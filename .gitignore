@@ -1,4 +1,5 @@
 # User-specific stuff:
+.idea/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
@@ -18,6 +19,7 @@
 
 # CMake
 cmake-build-debug/
+CMakeLists.txt
 
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml

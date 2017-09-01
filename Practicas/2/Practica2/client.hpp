@@ -1,3 +1,12 @@
+/*
+Equipo 4
+- De Santiago Macías, Sergio Miguel
+- Díaz Flores, Brandon
+- González Gómez, Sebastián
+- Hernández Orozco, Kenneth Michel
+- Zúñiga Castellano, Francisco Jesús
+*/
+
 #ifndef CLIENT_H
 #define CLIENT_H
 

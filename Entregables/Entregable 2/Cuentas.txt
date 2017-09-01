@@ -1,0 +1,6 @@
+1 Sebastian 2000
+2 Sergio 12345
+3 Brandon -500
+4 Kenneth -6530
+5 Francisco 0
+6 Jim 0
